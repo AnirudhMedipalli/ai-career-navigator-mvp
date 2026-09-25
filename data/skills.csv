@@ -1,0 +1,24 @@
+canonical_skill,aliases,category
+Python,"python,python3",Programming
+SQL,"sql,structured query language",Database
+Machine Learning,"machine learning,ml",AI/ML
+Deep Learning,"deep learning,dl",AI/ML
+Natural Language Processing,"natural language processing,nlp",AI/ML
+LLM,"large language model,large language models,llm,llms",AI/ML
+Pandas,"pandas",Data
+NumPy,"numpy",Data
+Scikit-learn,"scikit-learn,sklearn,scikit learn",AI/ML
+PyTorch,"pytorch",AI/ML
+TensorFlow,"tensorflow",AI/ML
+Statistics,"statistics,statistical analysis",Mathematics
+Power BI,"power bi,powerbi",BI
+Tableau,"tableau",BI
+Excel,"excel,microsoft excel",BI
+Docker,"docker,containerization",DevOps
+MLOps,"mlops,machine learning operations",DevOps
+Git,"git,github",Development
+ETL,"etl,extract transform load",Data Engineering
+Apache Spark,"apache spark,spark",Data Engineering
+Airflow,"airflow,apache airflow",Data Engineering
+Cloud,"cloud computing,aws,azure,gcp",Cloud
+APIs,"api,apis,rest api,rest apis",Development

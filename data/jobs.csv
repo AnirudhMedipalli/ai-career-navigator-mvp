@@ -1,0 +1,7 @@
+job_id,title,company,skills
+1,Data Scientist,Demo Analytics,"Python,SQL,Statistics,Machine Learning,Pandas,Scikit-learn,Deep Learning"
+2,Data Analyst,Demo Insights,"Python,SQL,Excel,Power BI,Tableau,Statistics,Pandas"
+3,Machine Learning Engineer,Demo AI,"Python,Machine Learning,Scikit-learn,PyTorch,TensorFlow,Docker,MLOps,Git"
+4,AI Engineer,Demo AI Labs,"Python,Machine Learning,Deep Learning,NLP,PyTorch,APIs,Docker,LLM"
+5,Data Engineer,Demo Data,"Python,SQL,ETL,Apache Spark,Airflow,Git,Cloud"
+6,Business Intelligence Analyst,Demo BI,"SQL,Excel,Power BI,Tableau,Data Visualization,Statistics"
