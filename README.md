@@ -1,5 +1,7 @@
 # AI Career Navigator
 
+[Open the live app](https://ai-career-navigator-mvp-xq3yozfuenprvcciglkfuw.streamlit.app/)
+
 An end-to-end AI/ML project that analyzes a resume, extracts skills, compares them with target job requirements, identifies skill gaps, and generates a learning roadmap.
 
 ## MVP
