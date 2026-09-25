@@ -111,6 +111,12 @@ st.markdown(
 
 hero_copy, hero_scene = st.columns([1.02, 1.1], gap="large", vertical_alignment="center")
 with hero_copy:
+    st.link_button(
+        "View on GitHub",
+        "https://github.com/AnirudhMedipalli/ai-career-navigator-mvp",
+        icon=":material/open_in_new:",
+        width="content",
+    )
     st.markdown('<div class="hero-kicker">Career intelligence / 01</div>', unsafe_allow_html=True)
     st.markdown(
         '<div class="hero-title">Map your next<br><span>career move.</span></div>',
